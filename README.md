@@ -1,6 +1,6 @@
-# .dotfile
+# **.dotfile**
 
 
 
-##VIM
+## VIM
 
