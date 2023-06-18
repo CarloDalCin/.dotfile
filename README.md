@@ -1,6 +1,13 @@
 # **.dotfile**
+Here you can find links to my configurations
 
 
-
-## VIM
+- [X] VIM
+> ()
+- [] HYPRLAND
+> ()
+- [] KITTY
+> ()
+- [] NVIM
+> ()
 
