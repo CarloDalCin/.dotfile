@@ -4,10 +4,10 @@ Here you can find links to my configurations
 
 - [X] VIM
 > ()
-- [] HYPRLAND
+- [ ] HYPRLAND
 > ()
-- [] KITTY
+- [ ] KITTY
 > ()
-- [] NVIM
+- [ ] NVIM
 > ()
 
